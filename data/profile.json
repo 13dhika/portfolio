@@ -1,37 +1,36 @@
 {
-    "name": "Aminuddin Rizal (林安明)- Lecturer Computer and Electronic Engineering",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
-    "profileImage": "images/profile.jpg",
-    "email": "aminuddin.rizal@polines.ac.id",
-    "phone": "+62 (851) 324-78890",
+    "name": "Andhika Surya Syahputra- Electronic Engineering Technology Student",
+    "description": "I am an Electrical Engineering student with a strong interest in electronics, programming, and control systems. I have hands-on experience through internships at PPTIK ITB and Gumaya Tower Hotel, where I developed practical skills in PCB prototyping, soldering, troubleshooting, and programming using C++ and Python. I am a fast learner, capable of working independently or in a team, and committed to contributing to innovative and efficient technological solutions.",
+    "profileImage": "images/pas.jpg",
+    "email": "dhika13bugaji@gmail.com",
+    "phone": "+62 (888) 0247-1338",
     "socialMedia": [
         {
             "platform": "LinkedIn",
-            "url": "https://linkedin.com/in/aminuddin-rizal128"
+            "url": "https://www.linkedin.com/in/andhikasurya1301"
         },
         {
             "platform": "GitHub",
-            "url": "https://github.com/rizalhalim9"
+            "url": "https://github.com/13dhika"
         },
         {
-            "platform": "Twitter",
-            "url": "https://twitter.com/redpandalin"
+            "platform": "Instagram",
+            "url": "https://instagram.com/a.surya.sp"
         }
     ],
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/andhika-cv.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Electrical Wiring and Installation ", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "PLC Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
+	{"name": "Digital Office Tools", "icon": "fas fa-list-check", "level": 95},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
     ]
 }
