@@ -24,13 +24,13 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Electrical Wiring and Installation ", "icon": "fas fa-heart-pulse", "level": 90},
+        {"name": "Electrical Wiring and Installation ", "icon": "fas fa-bolt", "level": 90},
         {"name": "PLC Programming", "icon": "fas fa-microchip", "level": 70},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 80},
-	{"name": "Digital Office Tools", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Digital Office Tools", "icon": "fas fa-briefcase", "level": 95},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
     ]
 }
