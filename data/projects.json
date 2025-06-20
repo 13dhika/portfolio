@@ -6,5 +6,13 @@
         "description": "The automatic parking gate and parking slot detection system based on IoT uses a NodeMCU as the controller and ultrasonic sensors as detectors. When a vehicle approaches the gate, the ultrasonic sensor detects its presence, and the NodeMCU processes the data to activate a servo motor that opens the barrier. After the vehicle passes through, the gate automatically closes. In the parking area, each slot is equipped with an ultrasonic sensor connected to the NodeMCU to monitor whether the slot is occupied or vacant. This information is sent to the cloud and displayed in real-time on a web dashboard or LED display, allowing users to accurately and efficiently check parking slot availability.",
         "image": "images/foto.jpg",
         "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Line Follower Robot",
+        "year": "2024",
+        "role": "Engineer",
+        "description": "A Line Follower Robot is an autonomous robot that follows a predefined path, usually a black line on a white surface, using infrared sensors to detect contrast. Controlled by a microcontroller, it processes sensor input to adjust motor movements and stay on track. With simple logic or PID algorithms, it ensures accurate navigation. This type of robot is widely used in robotics education and as a foundation for industrial automation systems like automated guided vehicles (AGVs).",
+        "image": "images/line.jpeg",
+        "link": "https://example.com/solar-water"
     }
 ]
